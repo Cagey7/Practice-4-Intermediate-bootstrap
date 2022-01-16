@@ -1,0 +1,10 @@
+h1, h2 {
+    text-align: center;
+}
+.name {
+    font-size:48px;
+}
+
+.foot {
+    background-color: rgb(19, 19, 19);
+}
